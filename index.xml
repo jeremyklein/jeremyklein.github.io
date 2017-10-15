@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Klein</title>
+    <link>jeremyklein.github.io/</link>
+    <description>Recent content on Jeremy Klein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Oct 2017 13:15:06 -0400</lastBuildDate>
+    
+	<atom:link href="jeremyklein.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The lazy man&#39;s blog</title>
+      <link>jeremyklein.github.io/blog/first/</link>
+      <pubDate>Sun, 15 Oct 2017 13:15:06 -0400</pubDate>
+      
+      <guid>jeremyklein.github.io/blog/first/</guid>
+      <description>A static blog.. The simplest way possible. I am a big fan of keeping this simple, especially to start. With side projects I&amp;rsquo;ve found that I have a tendency to obsess over finding the exact right solution for the job. This leads me to come up with some sort of over engineered mess that will ultimately never see the light of day. Picking a blogging solution was no exception to this.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>jeremyklein.github.io/about/</link>
+      <pubDate>Sun, 15 Oct 2017 12:10:07 -0400</pubDate>
+      
+      <guid>jeremyklein.github.io/about/</guid>
+      <description>This is my about page</description>
+    </item>
+    
+  </channel>
+</rss>
